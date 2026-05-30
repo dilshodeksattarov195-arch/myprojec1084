@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "invoicepalculate",
+        "uuid": 5085044,
+        "checksum": "gojlcs"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
